@@ -6,10 +6,10 @@
 - Por: Victor Sellan
 
 Observaciones:  Para cargar el template correctamente previamente se debio cargar en el lienzo de AWS CloudFormation Designer los siguientes objetos:
--VPC
--Subnet
--Instance
--TableRoute
--Route
--InternetGateway
--SecurityGroup
+1. VPC
+2. Subnet
+3. Instance
+4. TableRoute
+5. Route
+6. InternetGateway
+7. SecurityGroup
