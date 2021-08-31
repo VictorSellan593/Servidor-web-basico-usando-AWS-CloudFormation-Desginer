@@ -1,2 +1,6 @@
-# Servidor-web-basico-usando-AWS-CloudFormation-Desginer
-Levantar un servidor web básico a través de AWS CloudFormation Designer usando codigo YAML
+## Levantar-Servidor-web-usando-AWS-CloudFormation-designer
+# SISTEMAS OPERATIVOS DISTRIBUIDOS
+- UNIVERSIDAD DE GUAYAQUIL
+- FACULTAD DE CIENCIAS MATEMATICAS Y FISICAS
+- INGENIERIA EN SISTEMAS COMPUTACIONALES
+- Por: Victor Sellan
